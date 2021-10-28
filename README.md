@@ -1,9 +1,8 @@
-![Cover](https://github.com/AlexTremoureux/AlexTremoureux/blob/main/img/jungle-g5dea2a26e_640.jpg)
-### Hello 👋, I'm Alex!
-
+### Welcome 🙏, I'm Alex!
 - 🔭 I’m currently working on OpenClassrooms.
 - 🌱 I’m learning about CSS3, Javascript, React.js ...
 
+![Cover](https://github.com/AlexTremoureux/AlexTremoureux/blob/main/img/jungle-g5dea2a26e_640.jpg)
 <!--
 **AlexTremoureux/AlexTremoureux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
