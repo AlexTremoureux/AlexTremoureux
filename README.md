@@ -1,3 +1,4 @@
+![Cover](https://github.com/AlexTremoureux/AlexTremoureux/blob/main/img/jungle-gde5599ac3_1280.jpg)
 ### Hello 👋, I'm Alex!
 
 - 🔭 I’m currently working on OpenClassrooms.
