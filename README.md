@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello 👋, I'm Alex!
+
+- 🔭 I’m currently working on OpenClassrooms.
+- 🌱 I’m learning about CSS3, Javascript, React.js ...
 
 <!--
 **AlexTremoureux/AlexTremoureux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
