@@ -1,6 +1,6 @@
-### Welcome 🙏, I'm Alex!
-- 🔭 I’m currently working on OpenClassrooms.
-- 🌱 I’m learning about CSS3, Javascript, React.js ...
+### Bienvenue 🙏, je suis Alex!
+- Je suis un développeur web front-end 🌱
+- Mes technos sont: Javascript, Typescript, React.js, Redux, HTML, CSS, SCSS ...
 
 ![Cover](https://github.com/AlexTremoureux/AlexTremoureux/blob/main/img/jungle-g5dea2a26e_640.jpg)
 <!--
