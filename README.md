@@ -1,6 +1,16 @@
-### Bienvenue 🙏, je suis Alex!
-- Je suis un développeur web front-end 🌱
-- Mes technos sont: Javascript, Typescript, React.js, Redux, HTML, CSS, SCSS ...
+# Bienvenue 🙏, je suis Alex, Développeur web front-end!
+
+## Technologies
+- Javascript
+- TypeScript
+- React
+- Redux
+- HTML
+- CSS / SCSS
+
+## Parcours
+Après une formation de ✨ _Développeur Javascript React_ ✨ de 14 mois avec OpenClassrooms, je suis maintenant à la recherche d'une entreprise.
+Vous pouvez trouver les différents projets réalisés au cours de ma formation en dessous!
 
 ![Cover](https://github.com/AlexTremoureux/AlexTremoureux/blob/main/img/jungle-g5dea2a26e_640.jpg)
 <!--
