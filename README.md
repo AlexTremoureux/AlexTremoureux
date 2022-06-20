@@ -10,7 +10,7 @@
 
 ## Parcours
 Après une formation de ✨ _Développeur Javascript React_ ✨ de 14 mois avec OpenClassrooms, je suis maintenant à la recherche d'une entreprise.
-Vous pouvez trouver les différents projets réalisés au cours de ma formation en dessous!
+Vous pouvez trouver les différents projets réalisés au cours de ma formation dans la jungle de mes repositories! 😄
 
 ![Cover](https://github.com/AlexTremoureux/AlexTremoureux/blob/main/img/jungle-g5dea2a26e_640.jpg)
 <!--
